@@ -38,7 +38,7 @@ Expense Tracker is a Bash script that allows users to track their daily expenses
    cd expense-tracker
    
 Run the script:
-    ```bash
+```bash
     ./expense-tracker.sh
 
 Usage
