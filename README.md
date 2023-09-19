@@ -38,10 +38,9 @@ Expense Tracker is a Bash script that allows users to track their daily expenses
    cd expense-tracker
    
 Run the script:
+    ```bash
+    ./expense-tracker.sh
 
-bash
-Copy code
-./expense-tracker.sh
 Usage
 Follow the on-screen instructions to interact with the Expense Tracker. The main menu provides options for adding expenses, viewing expense history, generating reports, setting budget alerts, creating backups, restoring data, user registration, and login.
 
