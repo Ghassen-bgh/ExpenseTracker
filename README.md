@@ -41,13 +41,16 @@ Run the script:
 ```bash
     ./expense-tracker.sh
 ```
-Usage
+### Usage
+
 Follow the on-screen instructions to interact with the Expense Tracker. The main menu provides options for adding expenses, viewing expense history, generating reports, setting budget alerts, creating backups, restoring data, user registration, and login.
 
-Documentation
+### Documentation
+
 For detailed documentation on setting up the database, running the script, and using each feature, refer to the project documentation.
 
-Contributing
+### Contributing
+
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
 1.Fork the repository.
@@ -60,5 +63,6 @@ feature'
 4.Push to the branch: git push origin feature-name
 
 5.Create a pull request.
-License
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
